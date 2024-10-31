@@ -1,1 +1,1 @@
-This is a repo for my persomnal website.
+This is a repo for my website.
